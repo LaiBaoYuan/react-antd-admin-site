@@ -130,7 +130,7 @@ npm run dev
 
 <br/>
 
-启动完成后会自动打开浏览器访问 [http://localhost:5173](http://localhost:5173)， 你看到下面的页面就代表操作成功了。
+启动完成后会自动打开浏览器访问 <a href="http://localhost:5173" target="_blank" rel="noreferrer">`http://localhost:5173`</a>， 你看到下面的页面就代表操作成功了。
 
 ![](https://panjiachen.gitee.io/gitee-cdn/vue-element-admin-site/1bc334a6-32a8-4f29-a037-ac3f5ce32588.png)
 
