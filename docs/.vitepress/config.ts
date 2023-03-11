@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  base: '/react-antd-admin',
   lang: "en",
   title: "React Antd Admin",
   description: "🎉 A magical react admin",
